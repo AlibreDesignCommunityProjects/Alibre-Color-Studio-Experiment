@@ -1,3 +1,9 @@
+# My comments:
+
+- The treeview refers to faces as planes (cylinders, primitive types) as a simple representation instead of literal topology names.
+- This is an experiment for learning and getting setup with a Python 3 program for Alibre Design.
+- This was made with AI.
+
 # Alibre Color Studio Experiment 
 
 ![alt text](img1.png)
