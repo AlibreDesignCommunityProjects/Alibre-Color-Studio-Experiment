@@ -1,5 +1,7 @@
 # Alibre Color Studio Experiment 
 
+![alt text](img1.png)
+
 Color parts, features and assembly components in a running Alibre Design
 session, from a DearPyGui window.
 
